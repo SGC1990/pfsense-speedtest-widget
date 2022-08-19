@@ -24,5 +24,5 @@ Diagnostics - Command prompt
 Run this command
 
 ```
-fetch -q -o - https://raw.githubusercontent.com/aln-1/pfsense-speedtest-widget/master/autoconfigure.sh | sh
+fetch -q -o - https://raw.githubusercontent.com/SGC1990/pfsense-speedtest-widget/master/autoconfigure.sh | sh
 ```
